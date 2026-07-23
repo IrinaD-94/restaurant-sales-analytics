@@ -16,5 +16,6 @@ Analizzare le performance commerciali, i volumi di vendita e il comportamento d'
 * **Categorie Top:** La categoria *Main Dishes* guida i ricavi generando il **47,08%** del fatturato totale.
 * **Prodotti:** Individuazione immediata dei top performer (es. *Grilled Chicken*) e dei prodotti meno venduti (es. *Iced Tea*).
 
+![Restaurant Analytics Dashboard](Dashboard_Restaurant_Sales_img.png)
 ---
 *I file del dataset (CSV) e il report interattivo (PBIX) sono disponibili all'interno di questa repository.*
